@@ -32,6 +32,9 @@ A sample dataset created using Pandas with the following features:
    ```
    python creditworthiness_prediction.py
    ```
+   ## Output
+
+![Output](output2.png)
 
 ## 👨‍💻 Author
 **Avinash Gajula**
